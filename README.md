@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abrar</h1>
 <h3 align="center">A passionate Full-Stack web developer from Pakistan</h3>
 
-<img aligh="right" alt="billideveloper" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=billideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="billideveloper" /> </p>
+<img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="billideveloper" width="400" /> 
+
 
 - 📫 How to reach me **muhamamdabrar78627@gmail.com**
 
