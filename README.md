@@ -5,7 +5,7 @@
 <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="billideveloper" width="400" /> 
 
 
-- 📫 How to reach me **muhamamdabrar78627@gmail.com**
+- 📫 How to reach me **muhammadabrar78627@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
